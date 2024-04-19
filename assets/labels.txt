@@ -1,0 +1,13 @@
+arandela
+armella
+cabeza_hexagonal
+cabeza_lisa
+cabeza_hexagonal_con_ranura
+ranura_allen
+ranura_combinada
+ranura_cruz
+ranura_plana
+ranura_torx
+rondana_presion
+taquete
+tuerca
